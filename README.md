@@ -10,7 +10,7 @@ Syftet är att spara tid för handläggare som idag skriver anteckningar för ha
 
 
 
-[![Se demo-video](https://img.youtube.com/vi/qa_yKcNYxl0/maxresdefault.jpg)](https://youtu.be/qa_yKcNYxl0)
+[![Se demo-video](https://img.youtube.com/vi/v4F_oepzoYU/maxresdefault.jpg)](https://youtu.be/v4F_oepzoYU)
 
 
 
@@ -20,7 +20,7 @@ Syftet är att spara tid för handläggare som idag skriver anteckningar för ha
 
 1. **Tar in ett telefonsamtal** (en ljudinspelning).
 2. **Transkriberar** – AI:n lyssnar och skriver ner allt som sägs, ord för ord, på svenska.
-3. **Sammanfattar** – texten görs om till en strukturerad journalanteckning i myndighetsstil, under tydliga rubriker (aktuell situation, vad den sökande efterfrågar, uppgifter som framkommit, bedömning, och beslut/nästa steg).
+3. **Sammanfattar** – texten görs om till en strukturerad journalanteckning i myndighetsstil, skriven i löpande text precis som en riktig journalanteckning (och tar upp bland annat aktuell situation, vad den sökande efterfrågar, uppgifter som framkommit, bedömning och nästa steg).
 4. **Sparar** resultatet automatiskt som ett dokument.
 
 Hela kedjan tar ungefär 20 sekunder på en dator med grafikkort.
