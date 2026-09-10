@@ -10,7 +10,7 @@ Syftet är att spara tid för handläggare som idag skriver anteckningar för ha
 
 
 
-[![Se demo-video](https://img.youtube.com/vi/v4F_oepzoYU/hqdefault.jpg)](https://youtu.be/v4F_oepzoYU)
+### ▶️ [Klicka här för att se demo-videon](https://youtu.be/v4F_oepzoYU)
 
 
 
